@@ -1,0 +1,14 @@
+C:\Users\damon\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\damon\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\damon\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\damon\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\damon\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\damon\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\damon\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\damon\Desktop\HardwareStoreInvoice\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\damon\Desktop\HardwareStoreInvoice\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\damon\Desktop\HardwareStoreInvoice\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\damon\Desktop\HardwareStoreInvoice\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\damon\Desktop\HardwareStoreInvoice\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\damon\Desktop\HardwareStoreInvoice\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\damon\Desktop\HardwareStoreInvoice\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
