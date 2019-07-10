@@ -1,0 +1,20 @@
+C:\Users\damon\Desktop\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon Wolf-TargetHeart RateCalculator.csprojResolveAssemblyReference.cache
+C:\Users\damon\Desktop\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon_Wolf_TargetHeart_RateCalculator.Form1.resources
+C:\Users\damon\Desktop\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon_Wolf_TargetHeart_RateCalculator.Properties.Resources.resources
+C:\Users\damon\Desktop\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon Wolf-TargetHeart RateCalculator.csproj.GenerateResource.Cache
+C:\Users\damon\Desktop\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon Wolf-TargetHeart RateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\damon\Desktop\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\bin\Debug\Damon Wolf-TargetHeart RateCalculator.exe.config
+C:\Users\damon\Desktop\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\bin\Debug\Damon Wolf-TargetHeart RateCalculator.exe
+C:\Users\damon\Desktop\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\bin\Debug\Damon Wolf-TargetHeart RateCalculator.pdb
+C:\Users\damon\Desktop\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon Wolf-TargetHeart RateCalculator.exe
+C:\Users\damon\Desktop\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon Wolf-TargetHeart RateCalculator.pdb
+C:\Users\damon\Documents\Class\IT\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\bin\Debug\Damon Wolf-TargetHeart RateCalculator.exe.config
+C:\Users\damon\Documents\Class\IT\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\bin\Debug\Damon Wolf-TargetHeart RateCalculator.exe
+C:\Users\damon\Documents\Class\IT\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\bin\Debug\Damon Wolf-TargetHeart RateCalculator.pdb
+C:\Users\damon\Documents\Class\IT\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon Wolf-TargetHeart RateCalculator.csprojResolveAssemblyReference.cache
+C:\Users\damon\Documents\Class\IT\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon_Wolf_TargetHeart_RateCalculator.Form1.resources
+C:\Users\damon\Documents\Class\IT\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon_Wolf_TargetHeart_RateCalculator.Properties.Resources.resources
+C:\Users\damon\Documents\Class\IT\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon Wolf-TargetHeart RateCalculator.csproj.GenerateResource.Cache
+C:\Users\damon\Documents\Class\IT\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon Wolf-TargetHeart RateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\damon\Documents\Class\IT\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon Wolf-TargetHeart RateCalculator.exe
+C:\Users\damon\Documents\Class\IT\Damon Wolf-TargetHeart RateCalculator\Damon Wolf-TargetHeart RateCalculator\obj\Debug\Damon Wolf-TargetHeart RateCalculator.pdb
